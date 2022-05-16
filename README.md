@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudassar Hussain</h1>
-<h3 align="center">A passionate full stack php developer from Pakistan</h3>
+<h3 align="center">A passionate PHP full stack developer from Pakistan</h3>
 
 - 🔭 I’m currently working on *PHP Laravel, Codeigniter, YII, Angular, VueJs, Firebase, Mysql, Postgre*
 
