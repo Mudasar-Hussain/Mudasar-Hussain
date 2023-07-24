@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on *PHP Laravel, Codeigniter, YII, Angular, VueJs, Firebase, Mysql, Postgre*
 
+- 🌱 I possess significant expertise in AWS, having worked extensively with a variety of services such as Amazon Elastic Container Registry (ECR), Amazon Elastic Container        Service (ECS), Amazon Elastic Kubernetes Service (EKS), and various others.
+
 - 🌱 I’m currently learning *ReactJs and NodeJs*
 
 - 👯 I’m looking to collaborate on *Web Development*
